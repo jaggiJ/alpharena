@@ -1,0 +1,10 @@
+# PyCharm files
+.idea
+
+#various logs
+*.txt
+classes/__pycache__/
+
+#other
+bg_colors.py
+test.py
